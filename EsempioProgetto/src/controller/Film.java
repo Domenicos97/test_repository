@@ -6,4 +6,9 @@ public class Film {
 	String ciao;
 	char salut;
 	
+	
+	public void ciao() {
+		System.out.println("Ciao");
+	}
+	
 }
