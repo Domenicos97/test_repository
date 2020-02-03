@@ -11,4 +11,7 @@ public class Film {
 		System.out.println("Ciao");
 	}
 	
+	public void domy() {
+		System.out.println("domy");
+	}
 }
