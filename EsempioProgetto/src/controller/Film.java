@@ -6,4 +6,7 @@ public class Film {
 	String ciao;
 	char salut;
 	
+	
+	double var;
+	
 }
